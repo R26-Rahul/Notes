@@ -27,6 +27,8 @@ If you are developing a production application, we recommend using TypeScript wi
 - npm i moment
     - A JavaScript date library for parsing, validating, manipulating, and formatting dates
 - npm i nanoid
+      - unique string ID generator
 - npm i zustand
+  - A small, fast and scalable bearbones state-management solution using simplified flux principles.
 ## npm run dev 
 ## npm run build 
